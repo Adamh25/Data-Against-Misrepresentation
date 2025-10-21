@@ -1,0 +1,4 @@
+Dataset size: 29,303 articles from The Guardian (2020→2025).
+- Muslim: n=12496, mean headline sentiment=-0.072, mean body sentiment=-0.087
+- Christian: n=9091, mean headline sentiment=-0.000, mean body sentiment=0.082
+- Jewish: n=7716, mean headline sentiment=-0.020, mean body sentiment=0.005
